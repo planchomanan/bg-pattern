@@ -519,4 +519,13 @@ class Gradient {
 * Gradient.updateFrequency(freq)
 */
 var gradient = new Gradient();
-    gradient.initGradient("#gradient-canvas2");
+    gradient.initGradient("#gradient-canvas");
+
+var gradient2 = new Gradient();
+    gradient2.initGradient("#gradient-canvas2");
+
+var gradient3 = new Gradient();
+    gradient3.initGradient("#gradient-canvas3");
+
+var gradient4 = new Gradient();
+    gradient4.initGradient("#gradient-canvas4");
